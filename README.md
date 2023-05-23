@@ -1,4 +1,4 @@
-# obs-datetime-Temperature
+# OBS-datetime-Temperature
 - OBS Script for DateTime which adds Temperature
 
 Based on [DateTime.lua by Albin Kauffmann](https://gitlab.com/albinou/obs-scripts/)
